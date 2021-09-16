@@ -48,7 +48,7 @@ In the data, group members are identified by a number from 0 to 3:\
 group 0 means control group\
 group 1 means ST group\
 group 2 means Sim group\
-group 3 means ST + Sim group\
+group 3 means ST + Sim group
 
 where:\
 ST = Systems Thinking\
