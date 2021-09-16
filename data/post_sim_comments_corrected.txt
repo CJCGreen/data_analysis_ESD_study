@@ -1,0 +1,32 @@
+Appears to be a valuable way to assess the impact of different variables upon possible outcomes. That, in turn, could usefully inform policy decisions.
+It is helpful 1) because people have different learning styles, so some people will prefer straight text, some will prefer maths, and some will prefer simulations and 2) learning the same thing in different ways helps you to understand and remember it.
+Believe this is very helpful. The only thing I'd suggest is to have a bit more explanation on how the Simulations work
+I have answered the question as a non systems engineering person. Systems dynamics is the only way to understand in my view. The challenge is not only finding the key parameters (given in this case) but being able to measure and have confidence in the data.
+I found them very useful though I would have liked an option to hear the text as well as read it.
+It was possible to simply divide the annual production of grass by the amount eaten per year to get the maximum sustainable level of deer population. I suppose the rest could be useful for eliminating ineffective potential solutions.
+I think it would be important in farming and the increase of cows on the land and show how unsustainable it would become . It also shows how resources can be depleted quickly with no action 
+Being able to adjust the variables made it very clear
+Simulations really showed how easy it is to go from sustainable to unsustainable growth.
+This reminded me some other useful interactive simulations that I have come across before here on this website - https://ncase.me
+Having a visual interactive aid really helped with learning. Also having an opportunity to manipulate the graphs led to more engaged and active learning.
+By doing an action it was easier to learn and remember information.
+Remarkably useful.
+A picture is worth a thousand words: seeing how the shape of the graph changes is much simpler than describing this in words.
+The text is too light and small, and it is difficult to read
+More than one model or system is useful
+I am a very visual learner, therefore seeing the graphs really made the whole thing much clearer in my head. Conversely, seeing the 'systems' all feeding into each other, with various arrows, boxes etc. just managed to confuse me more, as I do not calculate very well in my head! 
+The quiz text was very difficult to read.
+While the problem was obvious, the simulations helped to quantify exactly the necessary limits to keep the herd sustainable
+Gives the broader picture.  
+As I said above for the very young the facility of playing with an interactive graph for many of their own hardships in life could teach how to adjust the field in which they come across those problems. If ecology is applied to ones own life, and that image of the young fawn dying of starvation, even as a metaphor - it transposes  as a great teaching tool for responsibility - custodians of the planet and ones own life.
+It is invaluable to be able to simulate a situation which would be difficult or impossible to do in real life. (For example, you mightn't want to kill 20 deer just to see if it works, but you can simulate it.) You can explore how various  elements might change over time, and you can see the effect your strategies might have on the situation.
+A very clear presentation. One detail that might be added is how predators fare. More deer mean more wolves; more wolves mean less deer. 
+An absolutely excellent tool, especially the constructs for thinking about systems and the useful simulation. Totally changed the way I looked at the problem. The challenge in education is that often times these two valuable tools (systems thinking and simulation) are parsed but their combined use here has been excellent in facilitating knowledge construction. 
+I already understood the usefulness of simulations. It certainly helps more people to understand the consequences of policy and decision choices 
+Only worked out how to use the wheels by the time I got to the 3rd graph. Slides very full and learning curve steep so wasn't quick at using the tools.  Am also sorry that I automatically clicked the large black arrow at bottom right of page before scrolling all the way down the page after I answered the first question about numbers deer after 2 years based on 40% growth rate of a starting herd of 50 deer.
+Very interesting the way the simulation slowly builds from simple to complex picture, keeping you on board from start to finish. I remember the very first computer interactive we installed in an exhibition in 1994. This would have been considered way ahead of the game.
+Principles easy to get. Worked examples would have helped me more. But that is me I know. Other examples of actual realities where the theory has absolutely made a difference would make me remember stuff more. Liked to learn about the complexity of it all. For me the interdependence of all parts of a system is what needs to be rammed home. We are not separate from them we are them. 
+It's much easier to understand the results via an interactive graph or visual image. 
+Simulation is a valuable learning tool. It was well executed in this exercise.
+Initially, I found being able to interact with the simulations more helpful than thinking about the systems in the abstract, because it allowed me to check and see that I was thinking about the systems correctly. By the end of the process I was able to trust that I could think about the system correctly, and was able to answer the questions on the behaviour of the system without having to run the simulations.
+Simulation is an analytical approach to solve real world problems easily. 
