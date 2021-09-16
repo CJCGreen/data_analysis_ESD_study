@@ -7,6 +7,8 @@ Caroline Green
 **University**: NUIG (National University of Ireland Galway)\
 **Submitted**: September 2021
 
+An open version of the ESD Learning Tool used for this research is here: https://exchange.iseesystems.com/public/carolineb/sustainability-learning-tool/
+
 R scripts for reproducing all results in the thesis results chapters.
 
 R SCRIPTS
