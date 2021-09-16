@@ -39,3 +39,16 @@ In addition, *analyse_quiz1_data.R* requires the following text files:
 And finally, *analyse_quiz2_data.R* requires the following text files:
 - data/group0_fishery_sustainability_defn_corrected.txt
 - data/group2_fishery_sustainability_defn_corrected.txt
+
+EXPERIMENTAL GROUPS
+-------------------
+In the data, group members are identified by a number from 0 to 3:
+group 0 means control group/
+group 1 means ST group/
+group 2 means Sim group/
+group 3 means ST + Sim group/
+
+where:/
+ST = Systems Thinking/
+Sim = Simulation/
+ST+Sim = Systems Thinking + Simulation
