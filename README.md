@@ -3,6 +3,8 @@ R scripts for data analysis for ESD (Education for Sustainable Development) stud
 For doctoral thesis, September 2021\
 Caroline Green
 
+To cite: [![DOI](https://zenodo.org/badge/406853626.svg)](https://zenodo.org/badge/latestdoi/406853626)
+
 **Thesis name**: Systems Thinking and System Dynamics Simulation for Sustainability Education\
 **University**: NUIG (National University of Ireland Galway)\
 **Submitted**: September 2021
