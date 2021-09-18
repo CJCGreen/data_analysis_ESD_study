@@ -3,7 +3,7 @@ R scripts for data analysis for ESD (Education for Sustainable Development) stud
 For doctoral thesis, September 2021\
 Caroline Green
 
-To cite: [![DOI](https://zenodo.org/badge/406853626.svg)](https://zenodo.org/badge/latestdoi/406853626)
+To cite the data set (with associated scripts) on Zenodo: [![DOI](https://zenodo.org/badge/406853626.svg)](https://zenodo.org/badge/latestdoi/406853626)
 
 **Thesis name**: Systems Thinking and System Dynamics Simulation for Sustainability Education\
 **University**: NUIG (National University of Ireland Galway)\
@@ -11,11 +11,9 @@ To cite: [![DOI](https://zenodo.org/badge/406853626.svg)](https://zenodo.org/bad
 
 An open version of the ESD Learning Tool used for this research is here: https://exchange.iseesystems.com/public/carolineb/sustainability-learning-tool/
 
-R scripts for reproducing all results in the thesis results chapters.
-
 R SCRIPTS
 ---------
-There are four scripts. These are listed below, with corresponding thesis chapters.
+The R scripts reproduce all results in the thesis results chapters. There are four scripts. These are listed below, with corresponding thesis chapters.
 
 1. **function_qualitative.R**\
 R function for visualisations of qualitative data (word clouds, horizontal bar plots and ngrams)\
@@ -62,4 +60,4 @@ ST = Systems Thinking\
 Sim = Simulation\
 ST+Sim = Systems Thinking + Simulation
 
-For more details see the readme.txt files in each folder.
+This page presents an overview. For more details see the readme.txt files in each folder.
