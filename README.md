@@ -19,7 +19,7 @@ There are four scripts. These are listed below, with corresponding thesis chapte
 
 1. **function_qualitative.R**\
 R function for visualisations of qualitative data (word clouds, horizontal bar plots and ngrams)\
-Run before scripts 2 and 3.
+**Run before scripts 2 and 3**.
 2. **analyse_quiz1_data.R**\
 Source of results reported in Chapter 5: Results of ESD Learning Outcomes Experiment
 3. **analyse_quiz2_data.R**\
@@ -29,6 +29,7 @@ Source of results reported in Appendix 10: Analysis of possibly confounding vari
 
 DATA
 ----
+The data folder contains the anonymised research data. Create a folder called data beneath the folder containing your R scripts.
 
 The three scripts *analyse_quiz1_data.R*, *analyse_quiz2_data.R* and *background_variables.R* all require:
 - data/scores_tidy.xlsx
@@ -44,6 +45,10 @@ And finally, *analyse_quiz2_data.R* requires the following text files:
 - data/group0_fishery_sustainability_defn_corrected.txt
 - data/group2_fishery_sustainability_defn_corrected.txt
 
+SURVEYS
+-------
+The surveys folder is for reference only. It contains the surveys and quizzes used to collect the data, together with quiz marking schemes, code books and quiz answers.
+
 EXPERIMENTAL GROUPS
 -------------------
 In the data, group members are identified by a number from 0 to 3:\
@@ -56,3 +61,5 @@ where:\
 ST = Systems Thinking\
 Sim = Simulation\
 ST+Sim = Systems Thinking + Simulation
+
+For more details see the readme.txt files in each folder.
