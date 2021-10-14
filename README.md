@@ -43,13 +43,13 @@ And finally, *analyse_quiz2_data.R* requires the following text files:
 - data/group0_fishery_sustainability_defn_corrected.txt
 - data/group2_fishery_sustainability_defn_corrected.txt
 
+MODEL
+------
+The System Dynamics deer model used in the ESD learning tool for the simulation exercises (.stmx file).
+
 SURVEYS
 -------
 The surveys folder is for reference only. It contains the surveys and quizzes used to collect the data, together with quiz marking schemes, code books and quiz answers.
-
-MODELS
-------
-The System Dynamics deer model used in the ESD learning tool for the simulation exercises.
 
 EXPERIMENTAL GROUPS
 -------------------
