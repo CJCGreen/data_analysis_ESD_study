@@ -47,6 +47,10 @@ SURVEYS
 -------
 The surveys folder is for reference only. It contains the surveys and quizzes used to collect the data, together with quiz marking schemes, code books and quiz answers.
 
+MODELS
+------
+The System Dynamics deer model used in the ESD learning tool for the simulation exercises.
+
 EXPERIMENTAL GROUPS
 -------------------
 In the data, group members are identified by a number from 0 to 3:\
